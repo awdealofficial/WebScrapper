@@ -7,7 +7,7 @@ REPO = 'https://github.com/nuhmanpk/WebScrapper/'
 FINISHED_PROGRESS_STR = "▓"
 UN_FINISHED_PROGRESS_STR = "░"
 
-START_TEXT = "Hello , I am a web scrapper bot.\nSend me any link for scrapping.\n\nJoin @BugHunterBots"
+START_TEXT = "Hello , I am a web scrapper bot.\nSend me any link for scrapping.\n\nJoin @botsupports_og"
 
 START_BUTTON = InlineKeyboardMarkup(
     [
